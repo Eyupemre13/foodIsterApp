@@ -15,4 +15,11 @@ I made the foodister application as the final project in the ios bootcamp. I use
  - Alomafire
  - Firebase Authentication
  - Kingfisher
+ 
+ ## App Recording
+ 
+ 
+ 
+ 
+ 
 
