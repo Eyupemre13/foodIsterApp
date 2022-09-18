@@ -20,6 +20,10 @@ I made the foodister application as the final project in the ios bootcamp. I use
  
  
  
+
+https://user-images.githubusercontent.com/98653691/190913700-8d316517-cfcc-4fe7-8d2a-dc5a03b657cb.mp4
+
+
  
  
 
